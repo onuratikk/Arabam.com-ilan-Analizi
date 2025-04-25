@@ -1,0 +1,581 @@
+﻿Marka;Model;Yıl;Kilometre;Kasa_tipi;Motor_gücü;Çekiş;Renk;Fiyat
+Dacia;Duster;2016;92.000;Crossover;90;Önden Çekiş;Gri;879.999
+Peugeot;2008;2016;94.000;Crossover;102;Önden Çekiş;Gri;920.000
+Dacia;Duster;2023;14.000;Crossover;150;Önden Çekiş;Yeşil;1.350.000
+Chery;Tiggo 7 Pro;2024;10.300;Crossover;185;Önden Çekiş;Beyaz;1.470.000
+Ford;Kuga;2024;6.001;Crossover;182;Önden Çekiş;Mavi;2.150.000
+Hyundai;Tucson;2020;108.000;Crossover;136;Önden Çekiş;Beyaz;1.560.000
+MG;HS;2023;23.500;Crossover;162;Önden Çekiş;Beyaz;1.500.000
+BMW;X1;2017;93.000;Crossover;136;Önden Çekiş;Beyaz;1.600.000
+Volkswagen;Taigo;2022;32.000;Crossover;110;Önden Çekiş;Yeşil;1.335.000
+Kia;Sorento;2008;140.000;Crossover;170;4WD (Sürekli);Siyah;760.000
+Hyundai;Bayon;2021;41.260;Crossover;100;Önden Çekiş;Kırmızı;1.160.000
+Fiat;Egea Cross;2022;70.650;Crossover;130;Önden Çekiş;Turuncu;1.110.000
+Hyundai;Tucson;2020;64.000;Crossover;136;Önden Çekiş;Gri;1.635.000
+MG;HS;2023;15.000;Crossover;162;Önden Çekiş;Gri (metalik);1.465.000
+Seat;Ateca;2018;56.000;Crossover;150;Önden Çekiş;Beyaz;1.450.000
+Kia;Sportage;2020;54.000;Crossover;136;Önden Çekiş;Siyah;1.510.000
+Nissan;Qashqai;2017;55.950;Crossover;115;Önden Çekiş;Kahverengi;1.240.000
+Nissan;Qashqai;2018;106.500;Crossover;110;Önden Çekiş;Beyaz;1.230.000
+Peugeot;408;2023;32.500;Crossover;132;Önden Çekiş;Gri (Gümüş);1.570.000
+Skoda;Kamiq;2024;12.500;Crossover;110;Önden Çekiş;Gri (Gümüş);1.495.000
+Hyundai;Kona;2020;81.000;Crossover;136;Önden Çekiş;Gri (metalik);1.215.000
+Land Rover;Range Rover Sport;2019;83.312;Crossover;300;4WD (Sürekli);Beyaz;5.350.000
+Honda;CR-V;2022;49.000;Crossover;193;4WD (Sürekli);Mavi (metalik);2.100.000
+Ford;EcoSport;2020;46.000;Crossover;125;Önden Çekiş;Kahverengi;1.050.000
+Citroen;C5 Aircross;2022;67.700;Crossover;180;Önden Çekiş;Mavi (metalik);1.695.000
+Peugeot;408;2023;18.000;Crossover;132;Önden Çekiş;Kırmızı;1.740.000
+Volkswagen;Tiguan;2020;47.000;Crossover;150;Önden Çekiş;Gri (metalik);2.075.000
+Land Rover;Range Rover Evoque;2021;60.000;Crossover;160;Önden Çekiş;Gri (metalik);2.950.000
+Volkswagen;T-Cross;2023;16.200;Crossover;110;Önden Çekiş;Lacivert;1.400.000
+Mitsubishi;Ouander;2014;129.000;Crossover;150;4WD (Sürekli);Beyaz;1.175.000
+Land Rover;Freelander;2011;260.000;Crossover;190;4WD (Sürekli);Siyah;840.000
+Peugeot;2008;2018;78.300;Crossover;102;Önden Çekiş;Beyaz;950.000
+Fiat;Egea Cross;2023;10.000;Crossover;95;Önden Çekiş;Beyaz;945.000
+Renault;Captur;2014;127.000;Crossover;90;Önden Çekiş;Kırmızı;1.060.000
+Hyundai;Bayon;2023;23.000;Crossover;100;Önden Çekiş;Beyaz;1.190.000
+Peugeot;2008;2020;40.400;Crossover;102;Önden Çekiş;Füme;1.050.000
+Peugeot;3008;2023;30.000;Crossover;132;Önden Çekiş;Lacivert;1.660.000
+Hyundai;Bayon;2021;57.394;Crossover;100;Önden Çekiş;Yeşil;1.050.000
+Opel;Mokka;2023;26.000;Crossover;130;Önden Çekiş;Beyaz;1.350.000
+Jeep;Avenger Electric;2023;29.000;Crossover;156;Önden Çekiş;Kırmızı;1.370.000
+Chery;Omoda 5;2023;29.500;Crossover;185;Önden Çekiş;Siyah;1.325.000
+Peugeot;2008;2021;21.067;Crossover;132;Önden Çekiş;Turuncu;1.325.000
+Volkswagen;Tiguan;2020;27.500;Crossover;150;Önden Çekiş;Gri;1.800.000
+TOGG;T10X;2023;18.000;Crossover;218;Arkadan İtiş;Lacivert;1.380.000
+Volkswagen;T-Roc;2021;71.150;Crossover;150;Önden Çekiş;Beyaz;1.470.000
+Peugeot;3008;2020;60.000;Crossover;132;Önden Çekiş;Mavi (metalik);1.680.000
+Hyundai;Kona;2021;56.300;Crossover;136;Önden Çekiş;Gri (titanyum);1.340.000
+Toyota;C-HR;2021;33.000;Crossover;98;Önden Çekiş;Gri (metalik);1.490.000
+Chery;Omoda 5;2023;12.800;Crossover;185;Önden Çekiş;Yeşil;1.362.500
+Peugeot;e-3008;2024;6.001;Crossover;213;Önden Çekiş;Mavi;1.720.000
+Peugeot;e-3008;2024;6.066;Crossover;213;Önden Çekiş;Beyaz;1.730.000
+Ford;Puma;2023;11.700;Crossover;95;Önden Çekiş;Beyaz;1.080.000
+Fiat;Egea Cross;2024;10.000;Crossover;95;Önden Çekiş;Mavi;1.025.000
+Peugeot;2008;2023;52.000;Crossover;132;Önden Çekiş;Mavi;1.570.000
+Seat;Tarraco;2023;22.500;Crossover;150;Önden Çekiş;Diğer;1.948.500
+Peugeot;5008;2023;45.000;Crossover;132;Önden Çekiş;Beyaz;2.080.000
+Dacia;Duster;2023;20.000;Crossover;90;Önden Çekiş;Beyaz;1.200.000
+MG;HS;2024;6.001;Crossover;162;Önden Çekiş;Siyah;1.622.000
+Volkswagen;T-Roc;2022;52.000;Crossover;150;Önden Çekiş;Gri;1.720.000
+Mercedes Bulunamadı Benz;GLC;2024;35.000;Crossover;170;Arkadan İtiş;Siyah;4.275.000
+Volkswagen;Tiguan;2022;33.000;Crossover;150;Önden Çekiş;Mavi;2.600.000
+TOGG;T10X;2023;6.001;Crossover;218;Arkadan İtiş;Beyaz;1.790.000
+Peugeot;408;2023;37.333;Crossover;132;Önden Çekiş;Mavi;1.699.999
+Volkswagen;T-Roc;2023;16.000;Crossover;150;Önden Çekiş;Mavi;1.875.000
+Opel;Crossland;2022;38.000;Crossover;130;Önden Çekiş;Gri;950.000
+Volkswagen;Tiguan;2023;34.850;Crossover;150;Önden Çekiş;Gri;1.830.000
+Cupra;Formentor;2024;17.500;Crossover;150;Önden Çekiş;Gri;2.050.000
+Peugeot;2008;2023;16.000;Crossover;132;Önden Çekiş;Kırmızı;1.478.000
+Volkswagen;T-Roc;2021;24.000;Crossover;150;Önden Çekiş;Altın;1.600.000
+Nissan;Qashqai;2015;206.000;Crossover;130;Önden Çekiş;Beyaz;1.060.000
+Kia;Stonic;2021;33.700;Crossover;100;Önden Çekiş;Yeşil (metalik);1.185.000
+Kia;Sportage;2021;45.000;Crossover;132;Önden Çekiş;Mavi (metalik);1.180.000
+Fiat;Egea Cross;2023;9.115;Crossover;95;Önden Çekiş;Gri;955.000
+Toyota;C-HR;2017;101.000;Crossover;98;Önden Çekiş;Beyaz;1.219.000
+Kia;Sportage;2016;87.000;Crossover;132;Önden Çekiş;Şampanya;1.145.000
+Honda;CR-V;2015;122.000;Crossover;120;Önden Çekiş;Siyah;1.215.000
+Volkswagen;Taigo;2022;22.000;Crossover;110;Önden Çekiş;Lacivert;1.350.000
+Fiat;Egea Cross;2023;33.850;Crossover;95;Önden Çekiş;Füme;810.000
+Chery;Tiggo 7 Pro;2023;11.805;Crossover;185;Önden Çekiş;Beyaz;1.425.000
+Toyota;C-HR;2023;54.500;Crossover;98;Önden Çekiş;Gri (metalik);1.409.000
+Chery;Tiggo 7 Pro;2024;6.000;Crossover;185;Önden Çekiş;Gri;1.550.000
+Honda;CR-V;2016;123.900;Crossover;160;4WD (Sürekli);Siyah;1.435.000
+Hyundai;Tucson;2018;40.000;Crossover;132;Önden Çekiş;Bej;1.425.000
+Opel;Mokka;2023;15.000;Crossover;130;Önden Çekiş;Beyaz;1.480.000
+Volkswagen;Taigo;2024;6.001;Crossover;110;Önden Çekiş;Bej;1.485.000
+Volkswagen;T-Cross;2024;13.500;Crossover;110;Önden Çekiş;Turkuaz;1.500.000
+Opel;Mokka;2024;6.500;Crossover;130;Önden Çekiş;Siyah;1.505.000
+Toyota;Corolla Cross;2023;41.500;Crossover;140;Önden Çekiş;Gri;1.720.000
+TOGG;T10X;2023;14.000;Crossover;218;Arkadan İtiş;Mavi;1.750.000
+Volkswagen;T-Roc;2023;55.500;Crossover;150;Önden Çekiş;Bej;1.765.000
+Toyota;Corolla Cross;2023;42.000;Crossover;140;Önden Çekiş;Beyaz;2.150.000
+Honda;CR-V;2019;45.000;Crossover;193;4WD (Sürekli);Beyaz;1.870.000
+Subaru;Forester;2022;67.000;Crossover;150;4WD (Sürekli);Beyaz;2.275.000
+Peugeot;3008;2020;58.000;Crossover;132;Önden Çekiş;Gri;1.550.000
+Mercedes Bulunamadı Benz;GLC;2024;8.020;Crossover;170;Arkadan İtiş;Beyaz;4.550.000
+Volkswagen;Taigo;2023;8.000;Crossover;110;Önden Çekiş;Siyah;1.360.000
+Kia;Stonic;2021;16.000;Crossover;84;Önden Çekiş;Siyah;890.111
+Nissan;Qashqai;2017;115.000;Crossover;110;Önden Çekiş;Beyaz;1.250.000
+Audi;Q3;2023;14.700;Crossover;150;Önden Çekiş;Gri;2.615.000
+Toyota;Yaris Cross;2022;10.000;Crossover;125;Önden Çekiş;Beyaz;1.480.000
+Hyundai;Bayon;2021;24.000;Crossover;100;Önden Çekiş;Mavi;1.100.000
+Fiat;Egea Cross;2023;7.150;Crossover;95;Önden Çekiş;Yeşil;945.000
+Opel;Mokka;2021;35.360;Crossover;130;Önden Çekiş;Yeşil;1.290.000
+Hyundai;Bayon;2023;13.750;Crossover;100;Önden Çekiş;Yeşil;1.205.000
+Opel;Mokka;2022;21.000;Crossover;130;Önden Çekiş;Yeşil;1.285.000
+Subaru;XV;2012;94.000;Crossover;114;4WD (Sürekli);Siyah;975.000
+Opel;Grandland;2022;59.000;Crossover;130;Önden Çekiş;Kırmızı;1.550.000
+Skoda;Kamiq;2023;13.000;Crossover;150;Önden Çekiş;Gri (metalik);1.690.000
+Volkswagen;Tiguan;2022;42.500;Crossover;150;Önden Çekiş;Kahverengi;1.985.000
+Volvo;XC60;2024;10.500;Crossover;455;4WD (Sürekli);Siyah;5.210.000
+Renault;Captur;2017;187.000;Crossover;90;Önden Çekiş;Turuncu;900.000
+Fiat;Egea Cross;2023;14.500;Crossover;95;Önden Çekiş;Beyaz;899.000
+Hyundai;Santa Fe;2006;281.000;Crossover;126;4WD (Sürekli);Gri (Gümüş);525.000
+Nissan;Qashqai;2012;214.000;Crossover;106;Önden Çekiş;Gri (metalik);710.000
+Fiat;Egea Cross;2023;47.000;Crossover;95;Önden Çekiş;Füme;880.000
+Hyundai;Santa Fe;2013;284.400;Crossover;184;4WD (Sürekli);Gri (metalik);975.000
+Skoda;Kamiq;2023;6.001;Crossover;110;Önden Çekiş;Gri;1.420.000
+Jeep;Renegade;2022;19.000;Crossover;150;Önden Çekiş;Füme;1.510.000
+DS Automobiles;DS7 Crossback;2018;82.000;Crossover;225;Önden Çekiş;Turuncu;1.750.000
+Skoda;Karoq;2023;20.000;Crossover;150;Önden Çekiş;Gri;2.100.000
+Peugeot;408;2024;6.500;Crossover;132;Önden Çekiş;Gri;1.630.000
+Citroen;C3 Aircross;2020;87.000;Crossover;122;Önden Çekiş;Bej;1.750.000
+Seat;Ateca;2019;105.000;Crossover;115;Önden Çekiş;Gri (metalik);1.500.000
+Chery;Tiggo 7 Pro;2024;6.500;Crossover;185;Önden Çekiş;Siyah;1.475.000
+Renault;Austral;2024;7.000;Crossover;160;Önden Çekiş;Gri (metalik);1.950.000
+Chery;Tiggo 8 Pro;2023;32.500;Crossover;185;Önden Çekiş;Gri (Gümüş);1.600.000
+Nissan;Qashqai;2020;51.500;Crossover;160;Önden Çekiş;Beyaz;1.315.000
+Fiat;Egea Cross;2024;6.500;Crossover;130;Önden Çekiş;Gri;1.450.000
+Volkswagen;Taigo;2023;6.100;Crossover;110;Önden Çekiş;Mavi (metalik);1.575.000
+Peugeot;3008;2017;136.500;Crossover;122;Önden Çekiş;Beyaz;1.255.000
+Hyundai;Tucson;2021;165.000;Crossover;180;Önden Çekiş;Bordo;1.555.000
+Hyundai;Tucson;2015;26.000;Crossover;177;4WD (Sürekli);Bej;1.500.000
+Kia;Stonic;2021;29.060;Crossover;100;Önden Çekiş;Kırmızı;1.030.000
+Chery;Tiggo 7 Pro;2023;8.500;Crossover;185;Önden Çekiş;Gri;1.450.000
+Opel;Crossland X;2017;75.000;Crossover;110;Önden Çekiş;Beyaz;900.000
+Opel;Grandland X;2020;38.500;Crossover;130;Önden Çekiş;Füme;1.347.000
+Toyota;Corolla Cross;2023;24.000;Crossover;140;Önden Çekiş;Gri;1.850.000
+Volkswagen;T-Roc;2024;6.010;Crossover;150;Önden Çekiş;Mavi;1.950.000
+Hyundai;Bayon;2022;45.500;Crossover;100;Önden Çekiş;Beyaz;950.000
+Hyundai;Kona;2020;34.300;Crossover;177;4WD (Sürekli);Mavi;1.250.000
+Peugeot;3008;2023;26.400;Crossover;132;Önden Çekiş;Gri;1.805.000
+Nissan;Qashqai;2015;52.000;Crossover;130;Önden Çekiş;Beyaz;1.165.000
+Fiat;Egea Cross;2022;49.000;Crossover;95;Önden Çekiş;Beyaz;820.000
+Dacia;Duster;2020;48.000;Crossover;115;Önden Çekiş;Turuncu;1.050.000
+Peugeot;3008;2022;18.500;Crossover;182;Önden Çekiş;Kırmızı;1.900.000
+Opel;Mokka;2023;25.100;Crossover;130;Önden Çekiş;Gri;1.315.000
+Opel;Mokka X;2017;25.000;Crossover;136;Önden Çekiş;Beyaz;1.220.000
+Hyundai;Kona;2020;137.000;Crossover;136;Önden Çekiş;Füme;1.285.000
+Volkswagen;Taigo;2023;6.005;Crossover;110;Önden Çekiş;Siyah;1.455.000
+Subaru;Forester;2017;249.000;Crossover;150;4WD (Sürekli);Füme;1.380.000
+MG;HS;2022;6.010;Crossover;162;Önden Çekiş;Kırmızı;1.365.000
+Volkswagen;Tiguan;2013;167.823;Crossover;160;Önden Çekiş;Kahverengi;985.000
+Nissan;Juke;2016;139.000;Crossover;110;Önden Çekiş;Kırmızı;815.000
+Citroen;C5 Aircross;2020;43.500;Crossover;130;Önden Çekiş;Beyaz;1.590.000
+Fiat;500 X;2018;110.500;Crossover;120;Önden Çekiş;Beyaz;949.000
+Nissan;Juke;2020;53.000;Crossover;115;Önden Çekiş;Kırmızı;1.185.000
+Hyundai;Kona;2021;67.500;Crossover;120;Önden Çekiş;Füme;1.150.000
+Audi;Q3;2022;26.491;Crossover;150;Önden Çekiş;Gri (metalik);2.850.000
+Jeep;Grand Cherokee;2003;285.000;Crossover;163;4WD (Sürekli);Siyah;730.000
+Opel;Crossland;2023;16.000;Crossover;130;Önden Çekiş;Gri (metalik);1.125.000
+Opel;Mokka;2023;34.500;Crossover;130;Önden Çekiş;Yeşil;1.355.000
+TOGG;T10X;2023;6.050;Crossover;218;Arkadan İtiş;Siyah;1.490.000
+Renault;Kadjar;2018;53.690;Crossover;110;Önden Çekiş;Kırmızı;1.400.000
+Opel;Mokka;2023;15.000;Crossover;130;Önden Çekiş;Gri (Gümüş);1.350.000
+Opel;Crossland;2022;30.000;Crossover;130;Önden Çekiş;Kırmızı;1.350.000
+Kia;Sportage;2021;72.000;Crossover;136;4WD (Sürekli);Beyaz;1.455.000
+TOGG;T10X;2023;29.000;Crossover;218;Arkadan İtiş;Siyah;1.750.000
+Chery;Tiggo 7 Pro Max;2024;6.000;Crossover;185;Önden Çekiş;Füme;1.650.000
+Fiat;Egea Cross;2024;6.001;Crossover;95;Önden Çekiş;Mavi (metalik);985.000
+Land Rover;Range Rover;2006;270.000;Crossover;177;4WD (Sürekli);Siyah;1.270.000
+Renault;Kadjar;2015;87.000;Crossover;130;Önden Çekiş;Kırmızı;980.000
+Kia;Sportage;2022;38.500;Crossover;136;Önden Çekiş;Kırmızı;2.130.000
+Volkswagen;Tiguan;2020;73.500;Crossover;150;Önden Çekiş;Siyah;2.030.000
+Peugeot;e-2008;2023;29.000;Crossover;136;Önden Çekiş;Beyaz;1.550.000
+Dodge;Nitro;2010;154.000;Crossover;177;4WD (Sürekli);Siyah;1.070.000
+Nissan;Qashqai+2;2011;196.045;Crossover;110;Önden Çekiş;Beyaz;775.000
+Citroen;C3 Aircross;2023;17.500;Crossover;130;Önden Çekiş;Kırmızı;1.150.000
+Ford;EcoSport;2021;16.500;Crossover;125;Önden Çekiş;Gri;1.035.000
+Volkswagen;T-Roc;2023;12.650;Crossover;150;Önden Çekiş;Siyah;2.420.000
+Ford;Kuga;2017;78.000;Crossover;120;Önden Çekiş;Füme;1.390.000
+Kia;Stonic;2022;6.001;Crossover;100;Önden Çekiş;Füme;1.109.000
+Kia;Sportage;2015;68.000;Crossover;135;Önden Çekiş;Siyah;1.160.000
+Peugeot;3008;2021;184.500;Crossover;132;Önden Çekiş;Kırmızı;1.490.000
+Audi;Q2;2020;75.000;Crossover;116;Önden Çekiş;Kırmızı;1.750.000
+Fiat;Egea Cross;2022;23.000;Crossover;130;Önden Çekiş;Turuncu;1.280.000
+Kia;Niro;2023;29.100;Crossover;204;Önden Çekiş;Yeşil;1.399.000
+Kia;Stonic;2022;33.000;Crossover;100;Önden Çekiş;Gri (Gümüş);1.090.000
+Ford;Kuga;2023;7.500;Crossover;182;Önden Çekiş;Mavi (metalik);1.800.000
+Land Rover;Range Rover Sport;2012;265.000;Crossover;245;4WD (Sürekli);Siyah;1.800.000
+Skoda;Karoq;2022;17.000;Crossover;150;Önden Çekiş;Gri (metalik);1.975.000
+Hyundai;Bayon;2022;24.000;Crossover;100;Önden Çekiş;Kırmızı;1.120.000
+Nissan;Juke;2023;6.001;Crossover;115;Önden Çekiş;Beyaz;1.370.000
+Opel;Mokka X;2017;54.000;Crossover;136;Önden Çekiş;Kırmızı;1.200.000
+Citroen;C3 Aircross;2023;18.950;Crossover;130;Önden Çekiş;Gri (Gümüş);1.177.500
+TOGG;T10X;2024;11.000;Crossover;218;Arkadan İtiş;Siyah;1.350.000
+Nissan;Juke;2022;15.000;Crossover;115;Önden Çekiş;Füme;1.270.000
+Lincoln;Navigator;2006;175.000;Crossover;300;4WD (Sürekli);Siyah;2.200.000
+Kia;Stonic;2022;31.000;Crossover;100;Önden Çekiş;Füme;1.041.000
+Audi;Q3;2023;35.000;Crossover;150;Önden Çekiş;Siyah;2.765.000
+TOGG;T10X;2023;34.000;Crossover;218;Arkadan İtiş;Siyah;1.610.000
+Fiat;Egea Cross;2021;32.500;Crossover;95;Önden Çekiş;Beyaz;775.000
+Nissan;Qashqai;2016;68.000;Crossover;130;Önden Çekiş;Beyaz;1.400.000
+Opel;Crossland;2023;6.756;Crossover;130;Önden Çekiş;Gri (Gümüş);1.275.000
+Fiat;Egea Cross;2022;18.000;Crossover;130;Önden Çekiş;Füme;1.195.000
+Dacia;Duster;2020;58.000;Crossover;115;Önden Çekiş;Kahverengi;980.000
+Peugeot;2008;2021;91.000;Crossover;132;Önden Çekiş;Füme;1.295.000
+Jeep;Renegade;2023;19.500;Crossover;130;Önden Çekiş;Gri;1.590.000
+Peugeot;3008;2019;50.000;Crossover;132;Önden Çekiş;Gri (metalik);1.585.000
+Chery;Tiggo 8 Pro;2024;13.000;Crossover;185;Önden Çekiş;Siyah;1.640.000
+Fiat;Egea Cross;2023;13.957;Crossover;95;Önden Çekiş;Füme;890.000
+Kia;Niro;2022;76.000;Crossover;204;Önden Çekiş;Gri (titanyum);1.450.000
+Kia;Stonic;2023;25.000;Crossover;100;Önden Çekiş;Gri (metalik);1.099.000
+Fiat;Egea Cross;2024;6.001;Crossover;95;Önden Çekiş;Beyaz;1.075.000
+Nissan;Qashqai;2020;119.000;Crossover;160;Önden Çekiş;Gri (Gümüş);1.325.000
+Peugeot;3008;2021;72.000;Crossover;132;Önden Çekiş;Gri (metalik);1.780.000
+Peugeot;2008;2017;135.000;Crossover;102;Önden Çekiş;Beyaz;950.000
+Volkswagen;T-Roc;2022;11.400;Crossover;150;Önden Çekiş;Gri;1.720.000
+Kia;Niro;2023;10.000;Crossover;204;Önden Çekiş;Füme;1.475.000
+Peugeot;3008;2022;50.000;Crossover;182;Önden Çekiş;Mavi;1.660.000
+Peugeot;5008;2021;93.000;Crossover;132;Önden Çekiş;Beyaz;1.750.000
+Nissan;Qashqai;2019;98.500;Crossover;160;Önden Çekiş;Siyah;1.540.000
+MG;HS;2023;13.000;Crossover;162;Önden Çekiş;Beyaz;1.420.000
+Fiat;Egea Cross;2021;43.000;Crossover;95;Önden Çekiş;Gri (metalik);805.000
+Renault;Kadjar;2016;101.000;Crossover;110;Önden Çekiş;Beyaz;1.070.000
+Seat;Arona;2024;9.450;Crossover;110;Önden Çekiş;Kırmızı;1.275.000
+Ford;Puma;2023;7.700;Crossover;125;Önden Çekiş;Beyaz;1.315.000
+Volkswagen;Tiguan;2012;150.000;Crossover;160;4WD (Sürekli);Beyaz;885.000
+Volkswagen;Tiguan;2014;94.000;Crossover;160;Önden Çekiş;Lacivert;1.095.000
+MG;ZS;2023;23.000;Crossover;111;Önden Çekiş;Gri (Gümüş);1.195.000
+Nissan;Juke;2018;35.000;Crossover;117;Önden Çekiş;Beyaz;1.050.000
+TOGG;T10X;2023;37.000;Crossover;218;Arkadan İtiş;Siyah;1.720.000
+Volkswagen;Tiguan;2023;16.800;Crossover;150;Önden Çekiş;Kahverengi;2.420.000
+Volkswagen;Tiguan;2023;24.000;Crossover;150;Önden Çekiş;Füme;1.900.000
+Peugeot;3008;2022;55.000;Crossover;132;Önden Çekiş;Bordo;1.820.000
+Ford;Kuga;2022;11.000;Crossover;182;Önden Çekiş;Mavi;1.945.000
+Land Rover;Range Rover Sport;2012;227.000;Crossover;245;4WD (Sürekli);Beyaz;1.985.000
+Nissan;X-Trail;2016;130.000;Crossover;130;Önden Çekiş;Beyaz;1.240.000
+Honda;CR-V;2012;80.500;Crossover;150;4WD (Sürekli);Siyah;1.250.000
+Volkswagen;T-Roc;2023;54.000;Crossover;150;Önden Çekiş;Gri;1.765.000
+Citroen;C5 Aircross;2023;57.000;Crossover;130;Önden Çekiş;Lacivert;1.730.000
+Kia;Sportage;2015;105.000;Crossover;135;Önden Çekiş;Beyaz;1.010.000
+Hyundai;Tucson;2020;47.000;Crossover;177;Önden Çekiş;Gri;1.455.000
+Nissan;Juke;2012;101.000;Crossover;117;Önden Çekiş;Kırmızı;770.000
+Nissan;Qashqai;2017;119.600;Crossover;130;Önden Çekiş;Beyaz;1.280.000
+Honda;HR-V;2002;279.000;Crossover;105;4WD (Sürekli);Siyah;550.000
+Nissan;Qashqai;2023;49.250;Crossover;190;Önden Çekiş;Füme;2.100.000
+Dacia;Duster;2014;173.000;Crossover;110;Önden Çekiş;Siyah;780.000
+Fiat;Egea Cross;2023;16.000;Crossover;95;Önden Çekiş;Mavi (metalik);849.000
+Citroen;C3 Aircross;2022;85.000;Crossover;130;Önden Çekiş;Gri;1.040.000
+Citroen;C4 SUV;2024;6.001;Crossover;132;Önden Çekiş;Kırmızı;1.340.000
+Chery;Tiggo 8 Pro;2024;12.600;Crossover;185;Önden Çekiş;Siyah;1.525.000
+Toyota;C-HR;2018;43.000;Crossover;98;Önden Çekiş;Beyaz;1.370.000
+Citroen;C5 Aircross;2020;133.000;Crossover;130;Önden Çekiş;Gri (metalik);1.190.000
+Ford;Kuga;2020;86.000;Crossover;120;Önden Çekiş;Mavi;1.570.000
+Opel;Mokka;2015;125.000;Crossover;136;Önden Çekiş;Beyaz;900.000
+Seat;Arona;2021;52.800;Crossover;110;Önden Çekiş;Kırmızı;1.110.000
+Peugeot;2008;2020;125.000;Crossover;132;Önden Çekiş;Turuncu;1.250.000
+Dacia;Duster;2018;216.000;Crossover;115;Önden Çekiş;Gri;720.000
+Opel;Crossland;2024;6.000;Crossover;130;Önden Çekiş;Gri (Gümüş);1.190.000
+Peugeot;2008;2022;58.000;Crossover;132;Önden Çekiş;Gri (titanyum);1.435.000
+Volkswagen;Taigo;2023;7.500;Crossover;110;Önden Çekiş;Siyah;1.450.000
+Seat;Arona;2023;8.250;Crossover;95;Önden Çekiş;Kırmızı;1.165.000
+Peugeot;2008;2022;10.500;Crossover;132;Önden Çekiş;Gri (metalik);1.470.000
+Chery;Tiggo 7 Pro;2024;6.001;Crossover;185;Önden Çekiş;Beyaz;1.525.000
+Skoda;Kamiq;2024;9.250;Crossover;110;Önden Çekiş;Siyah;1.460.000
+Volkswagen;Taigo;2023;6.001;Crossover;110;Önden Çekiş;Beyaz;1.580.000
+Land Rover;Range Rover Evoque;2013;260.000;Crossover;190;4WD (Sürekli);Beyaz;1.850.000
+Hyundai;Tucson;2022;23.700;Crossover;180;Önden Çekiş;Mavi (metalik);1.834.000
+Peugeot;3008;2023;6.001;Crossover;132;Önden Çekiş;Siyah;1.775.000
+Cupra;Formentor;2023;32.200;Crossover;150;Önden Çekiş;Füme;1.925.000
+BMW;X1;2010;188.000;Crossover;177;4WD (Sürekli);Siyah;1.095.000
+Chery;Tiggo 8 Pro;2024;6.350;Crossover;185;Önden Çekiş;Beyaz;1.875.000
+Toyota;C-HR;2022;27.000;Crossover;98;Önden Çekiş;Gri;1.430.000
+Opel;Mokka-e;2023;17.000;Crossover;136;Önden Çekiş;Mavi;1.249.000
+TOGG;T10X;2023;12.543;Crossover;218;Arkadan İtiş;Gri;1.660.000
+Nissan;Qashqai;2023;16.500;Crossover;190;Önden Çekiş;Beyaz;1.830.000
+Kia;Stonic;2021;18.000;Crossover;100;Önden Çekiş;Gri;1.000.000
+Volkswagen;T-Roc;2023;34.500;Crossover;150;Önden Çekiş;Mavi;1.765.000
+Jeep;Renegade;2017;102.500;Crossover;120;Önden Çekiş;Siyah;1.080.000
+Dacia;Duster;2018;130.000;Crossover;110;Önden Çekiş;Kahverengi;1.070.000
+Kia;Sportage;2013;35.000;Crossover;135;Önden Çekiş;Beyaz;1.050.000
+Hyundai;Tucson;2024;15.000;Crossover;136;4WD (Sürekli);Mavi (metalik);2.300.000
+Hyundai;Bayon;2022;33.000;Crossover;100;Önden Çekiş;Kırmızı;1.200.000
+Hyundai;Tucson;2019;111.000;Crossover;136;Önden Çekiş;Gri (metalik);1.505.000
+MG;HS;2023;6.001;Crossover;162;Önden Çekiş;Siyah;1.485.000
+Nissan;Qashqai;2018;143.000;Crossover;110;Önden Çekiş;Beyaz;1.250.000
+Cupra;Formentor;2022;27.000;Crossover;150;Önden Çekiş;Siyah;1.900.000
+Mitsubishi;Eclipse Cross;2020;65.000;Crossover;163;Önden Çekiş;Kahverengi;1.175.000
+Chery;Tiggo 7 Pro;2023;13.750;Crossover;185;Önden Çekiş;Füme;1.475.000
+Land Rover;Freelander;2006;202.000;Crossover;112;4WD (Sürekli);Yeşil;700.000
+Peugeot;3008;2020;63.000;Crossover;132;Önden Çekiş;Diğer;1.660.000
+Nissan;Qashqai;2018;100.000;Crossover;115;Önden Çekiş;Kırmızı;1.100.000
+Fiat;Egea Cross;2023;24.550;Crossover;95;Önden Çekiş;Mavi (metalik);805.000
+Citroen;C5 Aircross;2020;87.000;Crossover;180;Önden Çekiş;Beyaz;1.460.000
+Kia;Stonic;2022;47.500;Crossover;100;Önden Çekiş;Gri;1.150.000
+Skoda;Kodiaq;2020;52.580;Crossover;150;Önden Çekiş;Mavi (metalik);1.855.000
+Nissan;Qashqai;2018;175.200;Crossover;110;Önden Çekiş;Mavi;1.100.000
+Kia;Stonic;2022;36.000;Crossover;100;Önden Çekiş;Gri;1.125.000
+Citroen;C3 Aircross;2022;29.000;Crossover;130;Önden Çekiş;Beyaz;1.135.000
+Peugeot;3008;2020;21.000;Crossover;132;Önden Çekiş;Beyaz;1.560.000
+Nissan;Qashqai;2023;26.000;Crossover;190;Önden Çekiş;Gri;1.840.000
+Suzuki;Grand Vitara;2004;275.000;Crossover;131;4WD (Sürekli);Siyah;620.000
+Opel;Grandland X;2020;80.000;Crossover;130;Önden Çekiş;Füme;1.380.000
+Fiat;Egea Cross;2022;66.000;Crossover;95;Önden Çekiş;Kırmızı;805.000
+Ford;Kuga;2018;38.000;Crossover;182;4WD (Sürekli);Lacivert;1.250.000
+Fiat;Egea Cross;2023;40.000;Crossover;95;Önden Çekiş;Mavi;968.500
+Cupra;Formentor;2024;28.000;Crossover;150;Önden Çekiş;Gri (metalik);1.950.000
+Opel;Mokka X;2017;29.000;Crossover;136;Önden Çekiş;Kırmızı;1.200.000
+Kia;Sportage;2021;37.500;Crossover;132;Önden Çekiş;Beyaz;1.290.000
+Nissan;Qashqai;2014;120.000;Crossover;130;Önden Çekiş;Gri;1.050.000
+Renault;Kadjar;2016;106.000;Crossover;110;Önden Çekiş;Lacivert;1.200.000
+Mercedes Bulunamadı Benz;ML;2009;320.000;Crossover;190;4WD (Sürekli);Siyah;1.300.000
+TOGG;T10X;2023;19.200;Crossover;218;Arkadan İtiş;Siyah;1.410.000
+Peugeot;3008;2020;65.850;Crossover;132;Önden Çekiş;Mavi;1.780.000
+Opel;Mokka;2015;186.700;Crossover;136;Önden Çekiş;Beyaz;947.000
+Chery;Omoda 5;2024;18.000;Crossover;185;Önden Çekiş;Lacivert;1.510.000
+Peugeot;2008;2020;68.000;Crossover;132;Önden Çekiş;Beyaz;1.520.000
+Skoda;Karoq;2023;10.800;Crossover;150;Önden Çekiş;Füme;2.045.000
+Toyota;C-HR;2020;139.000;Crossover;98;Önden Çekiş;Beyaz;1.400.000
+Hyundai;Tucson;2017;110.000;Crossover;132;Önden Çekiş;Şampanya;1.190.000
+Nissan;Juke;2011;135.000;Crossover;117;Önden Çekiş;Beyaz;705.000
+Kia;Stonic;2021;55.400;Crossover;84;Önden Çekiş;Lacivert;829.000
+Chery;Tiggo 8 Pro;2023;22.000;Crossover;185;Önden Çekiş;Siyah;1.590.000
+Chery;Omoda 5;2023;25.000;Crossover;Bulunamadı;Önden Çekiş;Beyaz;1.380.000
+Hyundai;Kona;2020;51.800;Crossover;136;Önden Çekiş;Kırmızı;1.210.000
+Chery;Tiggo 7 Pro Max;2024;6.001;Crossover;185;Önden Çekiş;Siyah;1.850.000
+Volvo;XC40;2024;14.900;Crossover;252;Arkadan İtiş;Bej;2.395.000
+Kia;Sportage;2015;98.000;Crossover;135;Önden Çekiş;Kahverengi;1.000.000
+Peugeot;3008;2020;65.000;Crossover;132;Önden Çekiş;Turuncu;1.525.000
+Hyundai;Tucson;2022;66.000;Crossover;180;Önden Çekiş;Gri;1.585.000
+Peugeot;2008;2023;20.900;Crossover;132;Önden Çekiş;Beyaz;1.589.000
+Nissan;Qashqai;2016;107.000;Crossover;130;Önden Çekiş;Siyah;1.100.000
+Fiat;Egea Cross;2023;29.600;Crossover;95;Önden Çekiş;Beyaz;875.000
+Opel;Mokka;2015;89.000;Crossover;140;Önden Çekiş;Beyaz;880.000
+Peugeot;2008;2022;26.000;Crossover;132;Önden Çekiş;Gri (metalik);1.420.000
+Opel;Mokka;2015;89.000;Crossover;136;Önden Çekiş;Mavi;980.000
+Subaru;Forester;2005;277.000;Crossover;158;4WD (Sürekli);Siyah;480.000
+Opel;Crossland;2024;12.000;Crossover;130;Önden Çekiş;Kırmızı;1.130.000
+Seat;Arona;2021;71.000;Crossover;110;Önden Çekiş;Beyaz;1.145.000
+Skoda;Kamiq;2020;76.000;Crossover;115;Önden Çekiş;Mavi;1.330.000
+Kia;Sportage;2023;6.001;Crossover;150;Önden Çekiş;Yeşil;1.920.000
+Fiat;Egea Cross;2023;27.000;Crossover;95;Önden Çekiş;Füme;855.000
+Fiat;Egea Cross;2023;14.600;Crossover;95;Önden Çekiş;Gri;950.000
+Ford;EcoSport;2019;80.000;Crossover;125;Önden Çekiş;Beyaz;1.000.000
+Land Rover;Freelander;2010;344.000;Crossover;160;4WD (Sürekli);Beyaz;930.000
+Volkswagen;T-Cross;2022;38.000;Crossover;110;Önden Çekiş;Mavi;1.400.000
+Ford;Puma;2023;11.000;Crossover;125;Önden Çekiş;Beyaz;1.300.000
+Renault;Kadjar;2019;57.000;Crossover;130;4WD (Sürekli);Gri;1.575.000
+Land Rover;Range Rover Sport;2017;120.000;Crossover;240;4WD (Sürekli);Siyah;4.150.000
+Kia;Sportage;2017;103.000;Crossover;132;Önden Çekiş;Füme;1.200.000
+Ssangyong;Rexton;2012;294.300;Crossover;155;4WD (Sürekli);Beyaz;925.000
+Volkswagen;T-Roc;2023;24.000;Crossover;150;Önden Çekiş;Gri;1.665.000
+Seat;Tarraco;2022;60.000;Crossover;150;Önden Çekiş;Beyaz;1.950.000
+Volkswagen;Tiguan;2023;19.850;Crossover;150;Önden Çekiş;Gri (Gümüş);2.490.000
+Nissan;Juke;2017;63.500;Crossover;117;Önden Çekiş;Beyaz;975.000
+Peugeot;3008;2020;110.000;Crossover;132;Önden Çekiş;Kırmızı;1.320.000
+Fiat;Egea Cross;2022;11.700;Crossover;130;Önden Çekiş;Turuncu;1.080.000
+Chery;Omoda 5;2023;17.000;Crossover;185;Önden Çekiş;Gri;1.450.000
+BMW;X5;2014;204.000;Crossover;218;4WD (Sürekli);Beyaz;2.250.000
+Kia;Stonic;2021;55.000;Crossover;84;Önden Çekiş;Siyah;859.000
+Fiat;Egea Cross;2024;6.001;Crossover;95;Önden Çekiş;Beyaz;950.000
+Nissan;Qashqai;2016;203.000;Crossover;130;Önden Çekiş;Siyah;1.060.000
+Citroen;C4 SUV;2022;16.000;Crossover;132;Önden Çekiş;Gri (metalik);1.200.000
+Kia;Sportage;2014;128.000;Crossover;135;Önden Çekiş;Beyaz;1.175.000
+TOGG;T10X;2023;8.750;Crossover;218;Arkadan İtiş;Lacivert;1.410.000
+Lada;Niva;1997;120.000;Crossover;80;4WD (Sürekli);Beyaz;295.000
+Dacia;Duster;2022;69.000;Crossover;100;Önden Çekiş;Mavi (metalik);955.000
+Fiat;Egea Cross;2023;16.500;Crossover;95;Önden Çekiş;Mavi;917.500
+Skywell;ET5;2023;27.000;Crossover;204;Önden Çekiş;Mavi;1.600.000
+Peugeot;3008;2019;60.000;Crossover;180;Önden Çekiş;Gri;1.450.000
+Land Rover;Freelander;2009;189.107;Crossover;160;4WD (Sürekli);Siyah;850.000
+Toyota;C-HR;2017;137.000;Crossover;98;Önden Çekiş;Beyaz;1.195.000
+Nissan;Qashqai;2011;211.000;Crossover;106;Önden Çekiş;Beyaz;695.000
+Nissan;Qashqai;2018;46.500;Crossover;115;Önden Çekiş;Mavi;1.215.000
+Fiat;Egea Cross;2022;17.800;Crossover;130;Önden Çekiş;Füme;1.195.000
+Toyota;C-HR;2018;148.000;Crossover;98;Önden Çekiş;Beyaz;1.185.000
+Renault;Captur;2023;14.410;Crossover;155;Önden Çekiş;Lacivert;1.449.000
+Skoda;Kamiq;2020;59.800;Crossover;115;Önden Çekiş;Mavi (metalik);1.350.000
+Volkswagen;T-Roc;2022;45.000;Crossover;150;Önden Çekiş;Gri;1.780.000
+DS Automobiles;DS7 Crossback;2023;36.500;Crossover;130;Önden Çekiş;Lacivert;2.295.000
+Peugeot;3008;2024;31.500;Crossover;132;Önden Çekiş;Lacivert;1.950.000
+Nissan;Qashqai;2012;199.000;Crossover;106;Önden Çekiş;Beyaz;749.000
+Peugeot;3008;2022;12.350;Crossover;182;Önden Çekiş;Kırmızı;1.840.000
+Chery;Tiggo 8 Pro;2023;29.000;Crossover;185;Önden Çekiş;Siyah;1.535.000
+Peugeot;3008;2023;24.000;Crossover;132;Önden Çekiş;Füme;1.850.000
+Nissan;Juke;2011;179.000;Crossover;110;Önden Çekiş;Kırmızı;659.000
+Land Rover;Discovery;2017;104.000;Crossover;240;4WD (Sürekli);Siyah;3.300.000
+Citroen;C5 Aircross;2020;111.000;Crossover;130;Önden Çekiş;Füme;1.500.000
+Peugeot;3008;2021;110.000;Crossover;132;Önden Çekiş;Gri;1.710.000
+Volkswagen;T-Roc;2022;11.480;Crossover;150;Önden Çekiş;Kırmızı;2.050.000
+Land Rover;Discovery;2000;225.000;Crossover;184;4WD (Sürekli);Lacivert;660.000
+Peugeot;408;2023;6.001;Crossover;132;Önden Çekiş;Beyaz;1.950.000
+Nissan;X-Trail;2014;197.500;Crossover;130;Önden Çekiş;Beyaz;1.250.000
+Volkswagen;Tiguan;2022;45.000;Crossover;150;Önden Çekiş;Gri;1.790.000
+Fiat;Egea Cross;2023;15.500;Crossover;95;Önden Çekiş;Turuncu;910.000
+Nissan;Qashqai;2018;58.000;Crossover;130;Önden Çekiş;Beyaz;1.330.000
+Kia;Stonic;2022;26.000;Crossover;100;Önden Çekiş;Yeşil (metalik);1.050.000
+MG;ZS;2024;9.450;Crossover;111;Önden Çekiş;Gri;1.309.000
+Peugeot;3008;2024;11.000;Crossover;132;Önden Çekiş;Lacivert;1.985.000
+Citroen;C3 Aircross;2020;62.000;Crossover;122;Önden Çekiş;Beyaz;1.215.000
+BMW;X1;2017;82.000;Crossover;116;Önden Çekiş;Beyaz;1.350.000
+Seat;Ateca;2023;12.500;Crossover;150;Önden Çekiş;Mavi (metalik);1.670.000
+Opel;Grandland;2024;10.000;Crossover;130;Önden Çekiş;Gri;1.744.000
+Peugeot;3008;2023;18.000;Crossover;136;Önden Çekiş;Lacivert;1.875.000
+Subaru;Forester;2014;306.000;Crossover;150;4WD (Sürekli);Mavi (metalik);1.100.000
+Ford;EcoSport;2018;150.000;Crossover;125;Önden Çekiş;Kırmızı;900.999
+Chevrolet;Captiva;2008;255.000;Crossover;150;4WD (Sürekli);Siyah;630.000
+Fiat;Egea Cross;2021;79.000;Crossover;95;Önden Çekiş;Beyaz;850.000
+Dacia;Duster;2017;121.130;Crossover;110;Önden Çekiş;Kahverengi;950.000
+Nissan;Qashqai;2017;60.000;Crossover;115;Önden Çekiş;Kırmızı;1.279.000
+Volkswagen;Tiguan;2010;230.000;Crossover;150;Önden Çekiş;Beyaz;825.000
+Ford;EcoSport;2022;33.000;Crossover;125;Önden Çekiş;Mavi;1.100.000
+Peugeot;3008;2020;109.000;Crossover;132;Önden Çekiş;Kırmızı;1.500.000
+Hyundai;Tucson;2020;36.277;Crossover;177;Önden Çekiş;Kahverengi;1.480.000
+Mercedes Bulunamadı Benz;GLB;2023;29.000;Crossover;163;4WD (Sürekli);Gri (Gümüş);3.240.000
+Hyundai;Kona;2020;38.000;Crossover;120;Önden Çekiş;Beyaz;990.000
+Volkswagen;T-Cross;2024;6.001;Crossover;110;Önden Çekiş;Beyaz;1.475.000
+Jeep;Compass;2013;91.000;Crossover;156;Önden Çekiş;Siyah;1.050.000
+Dacia;Duster;2022;29.900;Crossover;100;Önden Çekiş;Beyaz;996.000
+BMW;X1;2022;12.500;Crossover;136;Önden Çekiş;Siyah;2.875.000
+Dacia;Spring;2023;24.250;Crossover;65;Önden Çekiş;Yeşil;725.000
+Chevrolet;Captiva;2011;199.000;Crossover;150;4WD (Sürekli);Siyah;675.000
+Chery;Tiggo 7 Pro;2024;9.500;Crossover;185;Önden Çekiş;Beyaz;1.649.500
+Peugeot;3008;2020;53.500;Crossover;132;Önden Çekiş;Kahverengi;1.530.000
+Volvo;XC40;2022;39.900;Crossover;163;Önden Çekiş;Beyaz;2.690.000
+Volkswagen;Tiguan;2014;107.000;Crossover;160;Önden Çekiş;Siyah;1.200.000
+Seres;3;2022;11.400;Crossover;163;Önden Çekiş;Kırmızı;1.150.000
+Peugeot;408;2023;29.000;Crossover;132;Önden Çekiş;Siyah;1.585.000
+MINI;Cooper Countryman;2019;37.000;Crossover;136;4WD (Sürekli);Siyah;1.460.000
+MG;HS;2023;14.000;Crossover;162;Önden Çekiş;Beyaz;1.510.000
+Dacia;Duster;2019;131.000;Crossover;115;Önden Çekiş;Füme;860.000
+Dacia;Duster;2020;104.000;Crossover;115;4WD (Sürekli);Beyaz;1.075.000
+Fiat;Egea Cross;2024;9.500;Crossover;95;Önden Çekiş;Beyaz;975.000
+Mitsubishi;ASX;2015;198.000;Crossover;117;Önden Çekiş;Siyah;785.000
+Opel;Grandland X;2019;122.000;Crossover;130;Önden Çekiş;Kırmızı;1.330.000
+Renault;Kadjar;2018;70.000;Crossover;110;Önden Çekiş;Gri (titanyum);1.300.000
+Nissan;Qashqai;2011;230.000;Crossover;115;Önden Çekiş;Beyaz;675.000
+Volkswagen;Taigo;2023;8.000;Crossover;110;Önden Çekiş;Siyah;1.549.500
+Volkswagen;Tiguan;2017;121.000;Crossover;115;Önden Çekiş;Gri (metalik);1.340.000
+Peugeot;2008;2023;19.000;Crossover;132;Önden Çekiş;Siyah;1.610.000
+Peugeot;3008;2023;6.000;Crossover;132;Önden Çekiş;Gri (titanyum);1.860.000
+Opel;Mokka;2012;120.000;Crossover;140;4WD (Sürekli);Beyaz;805.000
+Chery;Tiggo 8 Pro;2023;12.000;Crossover;185;Önden Çekiş;Gri;1.725.000
+Chevrolet;Captiva;2013;115.000;Crossover;163;Önden Çekiş;Beyaz;1.125.000
+Chery;Omoda 5;2024;6.001;Crossover;185;Önden Çekiş;Lacivert;1.447.000
+Kia;Sportage;2019;105.000;Crossover;136;4WD (Sürekli);Kırmızı;1.400.000
+TOGG;T10X;2023;6.001;Crossover;218;Arkadan İtiş;Gri;1.750.000
+Peugeot;5008;2020;94.000;Crossover;132;Önden Çekiş;Füme;1.800.000
+Kia;Sportage;2020;46.250;Crossover;136;4WD (Sürekli);Füme;1.490.000
+Peugeot;2008;2017;80.000;Crossover;102;Önden Çekiş;Gri (metalik);995.000
+Volkswagen;Tiguan;2024;6.000;Crossover;150;Önden Çekiş;Siyah;2.650.000
+Fiat;Egea Cross;2023;26.000;Crossover;95;Önden Çekiş;Mavi (metalik);815.000
+Hyundai;Bayon;2022;18.000;Crossover;100;Önden Çekiş;Kırmızı;960.000
+Fiat;Egea Cross;2023;18.000;Crossover;95;Önden Çekiş;Mavi (metalik);900.000
+Peugeot;3008;2021;13.500;Crossover;132;Önden Çekiş;Beyaz;1.700.000
+Peugeot;3008;2023;15.000;Crossover;132;Önden Çekiş;Mavi;1.890.000
+Dacia;Duster;2018;123.500;Crossover;110;4WD (Sürekli);Füme;980.000
+Peugeot;3008;2023;30.000;Crossover;132;Önden Çekiş;Gri (titanyum);1.650.000
+Chery;Omoda 5;2023;35.000;Crossover;185;Önden Çekiş;Beyaz;1.350.000
+Kia;Sportage;2008;231.000;Crossover;140;4WD (Sürekli);Siyah;650.000
+Opel;Mokka;2022;40.000;Crossover;130;Önden Çekiş;Beyaz;1.350.000
+Chery;Tiggo 7 Pro;2024;6.400;Crossover;185;Önden Çekiş;Beyaz;1.525.000
+Audi;Q2;2022;30.000;Crossover;150;Önden Çekiş;Lacivert;1.615.000
+BMW;X4;2014;310.000;Crossover;190;4WD (Sürekli);Gri (metalik);2.100.000
+Peugeot;3008;2023;29.500;Crossover;132;Önden Çekiş;Beyaz;2.050.000
+Ford;Kuga;2013;168.000;Crossover;150;Önden Çekiş;Beyaz;785.000
+Nissan;Juke;2012;195.000;Crossover;110;Önden Çekiş;Beyaz;660.000
+Volkswagen;Tiguan;2015;162.000;Crossover;160;Önden Çekiş;Beyaz;1.120.000
+Honda;CR-V;2002;275.000;Crossover;147;4WD (Sürekli);Siyah;650.000
+Nissan;Juke;2012;160.000;Crossover;110;Önden Çekiş;Kırmızı;645.000
+Nissan;Qashqai;2020;92.800;Crossover;115;Önden Çekiş;Siyah;1.475.000
+Opel;Crossland X;2017;60.000;Crossover;110;Önden Çekiş;Gri (Gümüş);895.000
+Peugeot;2008;2022;19.500;Crossover;132;Önden Çekiş;Gri;1.420.000
+Kia;Stonic;2022;40.200;Crossover;100;Önden Çekiş;Gri;1.100.000
+Kia;Sportage;2013;220.000;Crossover;135;Önden Çekiş;Gri;780.000
+Renault;Captur;2021;60.800;Crossover;140;Önden Çekiş;Kırmızı;1.200.000
+Nissan;Qashqai;2018;85.000;Crossover;110;Önden Çekiş;Füme;1.340.000
+Skoda;Kamiq;2023;29.000;Crossover;150;Önden Çekiş;Gri (metalik);1.565.000
+Nissan;Qashqai;2016;127.500;Crossover;130;Önden Çekiş;Beyaz;1.295.000
+Nissan;Qashqai;2017;78.000;Crossover;130;Önden Çekiş;Siyah;1.300.000
+Kia;Sportage;2020;50.100;Crossover;136;Önden Çekiş;Mavi;1.450.000
+Peugeot;3008;2019;110.000;Crossover;132;Önden Çekiş;Gri (Gümüş);1.550.000
+MINI;Countryman E;2024;6.050;Crossover;204;Önden Çekiş;Gri (metalik);1.927.000
+Fiat;Egea Cross;2023;16.300;Crossover;Bulunamadı;Önden Çekiş;Mavi (metalik);1.330.000
+Kia;Sportage;2020;50.850;Crossover;136;4WD (Sürekli);Kahverengi;1.610.000
+Opel;Mokka;2024;6.500;Crossover;130;Önden Çekiş;Füme;1.480.000
+Kia;Sportage;2019;100.000;Crossover;136;Önden Çekiş;Diğer;1.350.000
+Volkswagen;T-Cross;2022;27.000;Crossover;110;Önden Çekiş;Beyaz;1.155.000
+Mercedes Bulunamadı Benz;EQB;2023;16.000;Crossover;190;4WD (Sürekli);Füme;2.560.000
+Hyundai;Kona;2020;51.000;Crossover;136;Önden Çekiş;Gri (titanyum);1.300.000
+Toyota;RAV4;2019;63.000;Crossover;178;4WD (Sürekli);Lacivert;2.399.000
+Nissan;Juke;2023;6.002;Crossover;115;Önden Çekiş;Kırmızı;1.300.000
+Nissan;Qashqai;2016;70.000;Crossover;115;Önden Çekiş;Beyaz;1.200.000
+Citroen;C3 Aircross;2020;35.000;Crossover;130;Önden Çekiş;Bej;1.110.000
+Dacia;Duster;2022;16.000;Crossover;150;Önden Çekiş;Turuncu;1.215.000
+Kia;Sportage;2023;6.008;Crossover;180;Önden Çekiş;Gri (Gümüş);2.010.000
+Skoda;Yeti;2011;142.000;Crossover;105;Önden Çekiş;Füme;730.000
+Opel;Crossland X;2020;26.200;Crossover;130;Önden Çekiş;Beyaz;1.055.000
+Nissan;Qashqai;2015;93.000;Crossover;130;Önden Çekiş;Beyaz;1.205.000
+Kia;Stonic;2022;18.710;Crossover;100;Önden Çekiş;Beyaz;1.195.000
+Opel;Mokka;2023;30.000;Crossover;130;Önden Çekiş;Gri;1.385.000
+Kia;Sportage;2024;6.005;Crossover;150;Önden Çekiş;Beyaz;1.950.000
+Renault;Captur;2015;129.000;Crossover;90;Önden Çekiş;Bej;839.000
+Volkswagen;Tiguan;2016;140.000;Crossover;150;Önden Çekiş;Bej;1.400.000
+Toyota;C-HR;2018;143.000;Crossover;98;Önden Çekiş;Diğer;1.150.000
+Fiat;Egea Cross;2023;38.000;Crossover;95;Önden Çekiş;Beyaz;920.000
+TOGG;T10X;2023;6.100;Crossover;218;Arkadan İtiş;Gri;1.740.000
+Nissan;Qashqai;2018;57.500;Crossover;115;Önden Çekiş;Mavi (metalik);1.170.000
+Cadillac;Escalade;2005;181.000;Crossover;350;4WD (Sürekli);Siyah;1.430.000
+Fiat;Egea Cross;2022;42.000;Crossover;95;Önden Çekiş;Füme;843.000
+Volkswagen;Tiguan;2017;149.000;Crossover;125;Önden Çekiş;Beyaz;1.250.000
+Dacia;Duster;2017;55.000;Crossover;90;Önden Çekiş;Bordo;975.000
+Opel;Mokka-e;2023;25.000;Crossover;136;Önden Çekiş;Kırmızı;1.200.000
+Nissan;Qashqai;2016;97.000;Crossover;130;Önden Çekiş;Beyaz;1.290.000
+Peugeot;3008;2018;120.000;Crossover;122;Önden Çekiş;Diğer;1.310.000
+Mercedes Bulunamadı Benz;GLB;2022;38.000;Crossover;163;4WD (Sürekli);Gri (Gümüş);2.930.000
+Renault;Koleos;2010;251.000;Crossover;150;Önden Çekiş;Siyah;610.000
+Hyundai;Kona;2022;43.000;Crossover;120;Önden Çekiş;Beyaz;1.230.000
+Volkswagen;T-Roc;2024;6.001;Crossover;150;Önden Çekiş;Mavi;1.825.000
+Skoda;Karoq;2023;21.000;Crossover;150;Önden Çekiş;Gri (Gümüş);2.200.000
+BMW;X1;2018;125.000;Crossover;116;Önden Çekiş;Siyah;1.714.000
+Chery;Omoda 5;2024;10.000;Crossover;185;Önden Çekiş;Lacivert;1.510.000
+Peugeot;3008;2021;97.500;Crossover;132;Önden Çekiş;Gri;1.750.000
+Jeep;Renegade;2015;128.000;Crossover;140;Önden Çekiş;Beyaz;1.045.000
+Kia;Stonic;2022;40.200;Crossover;100;Önden Çekiş;Gri;1.065.000
+Citroen;C5 Aircross;2022;32.000;Crossover;130;Önden Çekiş;Beyaz;1.780.000
+Kia;Stonic;2021;18.000;Crossover;84;Önden Çekiş;Gri;1.000.000
+Suzuki;Vitara;2016;143.000;Crossover;142;4WD (Sürekli);Kırmızı;1.050.000
+Peugeot;2008;2023;21.850;Crossover;132;Önden Çekiş;Füme;1.655.000
+Peugeot;408;2023;33.500;Crossover;132;Önden Çekiş;Siyah;1.765.000
+Nissan;Juke;2013;195.000;Crossover;110;Önden Çekiş;Kırmızı;610.000
+MG;ZS;2021;35.000;Crossover;111;Önden Çekiş;Gri (titanyum);1.105.000
+Fiat;Egea Cross;2023;14.500;Crossover;95;Önden Çekiş;Gri (metalik);910.000
+Chery;Tiggo 8 Pro;2024;7.500;Crossover;185;Önden Çekiş;Siyah;1.695.000
+TOGG;T10X;2024;6.001;Crossover;218;Arkadan İtiş;Siyah;1.825.000
+Chevrolet;Captiva;2011;139.000;Crossover;150;4WD (Sürekli);Diğer;755.000
+Fiat;Egea Cross;2022;18.500;Crossover;130;Önden Çekiş;Beyaz;1.125.000
+Nissan;Juke;2019;80.150;Crossover;117;Önden Çekiş;Kırmızı;970.000
+Nissan;Qashqai;2015;172.300;Crossover;110;Önden Çekiş;Beyaz;945.000
+Nissan;Juke;2014;82.000;Crossover;117;Önden Çekiş;Gri;915.000
+Opel;Mokka-e;2023;17.500;Crossover;136;Önden Çekiş;Yeşil (metalik);1.255.000
+Volkswagen;T-Roc;2022;31.000;Crossover;150;Önden Çekiş;Siyah;1.595.000
+Volkswagen;T-Cross;2023;10.000;Crossover;110;Önden Çekiş;Beyaz;1.370.000
+Peugeot;2008;2021;18.500;Crossover;132;Önden Çekiş;Füme;1.650.000
+Toyota;Corolla Cross;2023;16.500;Crossover;140;Önden Çekiş;Beyaz;2.045.000
+Opel;Grandland;2023;8.800;Crossover;130;Önden Çekiş;Gri (metalik);1.755.000
+Opel;Crossland;2023;14.000;Crossover;110;Önden Çekiş;Gri;1.050.000
+Opel;Crossland;2023;8.000;Crossover;130;Önden Çekiş;Gri (metalik);1.110.000
+Kia;Sportage;2017;92.600;Crossover;132;Önden Çekiş;Beyaz;1.190.000
+Citroen;C5 Aircross;2022;19.200;Crossover;130;Önden Çekiş;Yeşil (metalik);1.655.000
+Peugeot;2008;2021;59.900;Crossover;132;Önden Çekiş;Kırmızı;1.320.000
+Renault;Captur;2022;7.000;Crossover;140;Önden Çekiş;Füme;1.400.000
+Nissan;Qashqai;2015;116.000;Crossover;130;Önden Çekiş;Beyaz;1.105.000
+Chery;Omoda 5;2023;27.000;Crossover;185;Önden Çekiş;Gri (Gümüş);1.475.000
+Nissan;Qashqai;2022;14.250;Crossover;158;Önden Çekiş;Lacivert;1.695.000
+Volkswagen;Tiguan;2014;92.000;Crossover;160;Önden Çekiş;Bej;1.090.000
+Land Rover;Range Rover Sport;2020;98.000;Crossover;300;4WD (Sürekli);Siyah;6.399.000
+Opel;Mokka X;2017;120.000;Crossover;140;Önden Çekiş;Mavi;1.050.000
+Nissan;Juke;2024;6.001;Crossover;115;Önden Çekiş;Gri;1.500.000
+Audi;Q3;2022;6.001;Crossover;150;Önden Çekiş;Kırmızı;2.575.000
+Nissan;X-Trail;2015;92.500;Crossover;130;Önden Çekiş;Füme;1.230.000
+MINI;Cooper Countryman;2023;18.000;Crossover;136;4WD (Sürekli);Kırmızı;2.450.000
+Dacia;Duster;2023;8.100;Crossover;90;Önden Çekiş;Beyaz;975.000
+Chery;Omoda 5;2023;6.001;Crossover;185;Önden Çekiş;Gri;1.470.000
+Kia;Sportage;2007;254.000;Crossover;140;4WD (Sürekli);Gri (Gümüş);725.000
+Peugeot;5008;2021;10.500;Crossover;132;Önden Çekiş;Siyah;2.250.000
+Peugeot;2008;2020;84.000;Crossover;132;Önden Çekiş;Beyaz;1.380.000
+Suzuki;Vitara;2020;115.000;Crossover;142;4WD (Sürekli);Kırmızı;1.300.000
+Peugeot;408;2023;6.001;Crossover;132;Önden Çekiş;Lacivert;1.865.000
+BMW;X1;2024;11.000;Crossover;170;Önden Çekiş;Gri (metalik);3.450.000
+Seat;Arona;2022;59.500;Crossover;110;Önden Çekiş;Gri;1.210.000
+Opel;Mokka X;2019;55.000;Crossover;136;Önden Çekiş;Beyaz;1.122.200
+Renault;Captur;2017;74.300;Crossover;120;Önden Çekiş;Beyaz;918.000
+Peugeot;2008;2020;42.000;Crossover;132;Önden Çekiş;Turuncu;1.413.000
+Volkswagen;T-Cross;2023;12.000;Crossover;110;Önden Çekiş;Yeşil (metalik);1.380.000
+Hyundai;Tucson;2024;6.100;Crossover;136;Önden Çekiş;Gri;2.100.000
+Chery;Tiggo 7 Pro;2023;28.000;Crossover;185;Önden Çekiş;Beyaz;1.420.000
+BMW;iX1;2023;14.500;Crossover;313;4WD (Sürekli);Yeşil;2.650.000
+Volkswagen;T-Roc;2023;6.500;Crossover;150;Önden Çekiş;Mavi (metalik);2.080.000
+Land Rover;Range Rover Velar;2021;75.000;Crossover;204;4WD (Sürekli);Gri;4.650.000
